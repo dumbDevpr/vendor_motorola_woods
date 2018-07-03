@@ -1,9 +1,3 @@
-PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/motorola/woods/bin,system/bin)
-
-PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/motorola/woods/etc,system/etc)
-
-PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/motorola/woods/lib,system/lib)
-
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/motorola/woods/usr,system/usr)
 
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/motorola/woods/vendor/bin,system/vendor/bin)
