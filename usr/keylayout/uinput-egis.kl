@@ -19,6 +19,9 @@
 #key 621   FPS_ONENAV_YMINUS
 # Mod:
 key 616   HOME
-key 617   APP_SWITCH
+# {start} let fingerprint_sensor work similar to stock
+# key 617   APP_SWITCH
+key 617   SLEEP
+# {end}
 key 618   MENU
 key 619   BACK
